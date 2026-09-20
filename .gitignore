@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Generated data / results (keep the repo lightweight)
+data/transformed/
+results/*.csv
+results/*.png
+!results/.gitkeep
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/

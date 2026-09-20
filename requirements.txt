@@ -1,0 +1,11 @@
+# Install with: python -m pip install -r requirements.txt
+# pip will install the latest available versions of these packages.
+tensorflow
+numpy
+Pillow
+scikit-image
+scikit-learn
+scipy
+pandas
+matplotlib
+tqdm
