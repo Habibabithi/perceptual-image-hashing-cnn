@@ -1,7 +1,6 @@
 # Perceptual Image Hashing Using CNN
 
-B.Tech final-year project (8th Semester), Department of Computer Science &
-Engineering, National Institute of Technology Silchar — May 2024.
+B.Tech final-year project, Department of Computer Science & Engineering, National Institute of Technology Silchar — May 2024.
 
 **Authors:** Mst. Habiba Akter Bithi (2012162), Parijat Biswas Pritom (2012164),
 Muhammad Shakhawat Hossain (2012172)
